@@ -1,0 +1,25 @@
+{
+  "name": "konva-editor-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite", 
+    "build": "vite build",
+    "preview": "vite preview",
+    "netlify:dev": "netlify dev"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-konva": "^18.0.4",
+    "konva": "^8.4.3",
+    "opentype.js": "^1.3.4",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0",
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7"
+  }
+}
