@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"  # /* أمر البناء */ 
+  publish = "dist"           # /* مجلد النشر */ 
+  functions = "netlify/functions"  # /* مكان الدوال */ 
+
+[dev]
+  command = "npm run dev"
