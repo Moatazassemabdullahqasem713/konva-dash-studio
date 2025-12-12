@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/.env
+/.netlify
+.vscode
+.DS_Store
+Commit
